@@ -9,7 +9,7 @@ namespace GitTest
     public class Class1
     {
         /// <summary>
-        /// Gets or sets the name of the user.
+        /// 用户名
         /// </summary>
         public string UserName { get; set; }
     }
