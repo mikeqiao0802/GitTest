@@ -12,5 +12,10 @@ namespace GitTest
         /// 用户名
         /// </summary>
         public string UserName { get; set; }
+
+        /// <summary>
+        /// Gets or sets the sex.
+        /// </summary>
+        public int Sex { get; set; }
     }
 }
