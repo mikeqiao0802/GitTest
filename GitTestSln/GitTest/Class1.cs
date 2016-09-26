@@ -8,5 +8,9 @@ namespace GitTest
 {
     public class Class1
     {
+        /// <summary>
+        /// Gets or sets the name of the user.
+        /// </summary>
+        public string UserName { get; set; }
     }
 }
