@@ -17,5 +17,6 @@ namespace GitTest
         /// Gets or sets the sex.
         /// </summary>
         public int Sex { get; set; }
+
     }
 }
