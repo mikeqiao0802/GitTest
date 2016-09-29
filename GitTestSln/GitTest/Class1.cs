@@ -18,7 +18,10 @@ namespace GitTest
         /// </summary>
         public int Sex { get; set; }
 
-
+        /// <summary>
+        /// Age
+        /// </summary>
+        public int Age { get; set; }
 
     }
 }
