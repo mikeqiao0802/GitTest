@@ -14,7 +14,7 @@ namespace GitTest
         public string UserName { get; set; }
 
         /// <summary>
-        /// Sex
+        /// Sex1
         /// </summary>
         public int Sex { get; set; }
 
